@@ -1,0 +1,1 @@
+Get-AzureRmRoleDefinition -Name Owner

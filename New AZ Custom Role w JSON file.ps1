@@ -1,0 +1,1 @@
+New-AzRoleDefinition -InputFile "vm-operator-role.json"

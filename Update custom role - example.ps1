@@ -1,0 +1,1 @@
+Set-AzRoleDefinition -InputFile "<<path-to-json-file>>"

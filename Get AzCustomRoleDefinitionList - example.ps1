@@ -1,0 +1,1 @@
+Get-AzRoleDefinition | ? {$_.IsCustom -eq $true} | FT Name, IsCustom
